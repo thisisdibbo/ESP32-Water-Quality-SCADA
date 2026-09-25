@@ -1,0 +1,5 @@
+# WaterSCADA dashboard (main.py)
+PyQt6
+PyQt6-WebEngine
+pyqtgraph
+pyserial

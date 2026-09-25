@@ -1,0 +1,22 @@
+# PyInstaller output — dist/WaterSCADA.exe is ~230 MB and GitHub rejects files over 100 MB.
+# Publish the .exe as a GitHub Release asset instead.
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs exported from the dashboard or copied off the SD card
+# (delete this line if you want to publish sample data)
+*.csv
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
