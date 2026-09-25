@@ -192,9 +192,8 @@ The cubic is the standard curve for DFRobot-style analog TDS boards.
 
 ## Author
 
-**Md. Mahin Rahman**\
-Department of Electrical and Electronic Engineering, Islamic University of Technology (IUT), Gazipur, Bangladesh\
-GitHub: [@thisisdibbo](https://github.com/thisisdibbo)
+**Md. Mahin Rahman** — [@thisisdibbo](https://github.com/thisisdibbo) · [mr.d2003feb@gmail.com](mailto:mr.d2003feb@gmail.com)\
+Department of Electrical and Electronic Engineering, Islamic University of Technology (IUT), Gazipur, Bangladesh
 
 ## License
 
